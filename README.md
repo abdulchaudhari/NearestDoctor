@@ -46,7 +46,7 @@
 - [Roadmap](#-roadmap)
 - [Achievements](#-achievements)
 - [Contributing](#-contributing)
-- [Team](#-team)
+
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -294,15 +294,7 @@ See [open issues](https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issue
 
 ---
 
-## 👥 Team
 
-Built with 💕 by **AlphaCoders** 5 engineering students from Esprit School of Engineering, Tunisia.
-
-**Project Mentor:** [ameni.rommene@esprit.tn](mailto:ameni.rommene@esprit.tn)
-
-| | | | | |
-|---|---|---|---|---|
-| <div align="center"><img src="https://user-images.githubusercontent.com/78981558/157719496-9aec4730-512f-4188-87ca-8dbe6271ebfc.jpg" width="100" height="100"/><br/><b>Ahlem Laajili</b><br/><a href="mailto:ahlem.laajili@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ahlem-phantom"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a></div> | <div align="center"><img src="https://user-images.githubusercontent.com/78981558/157719539-f2829a38-c204-40fc-881d-21b9f407aa84.jpg" width="100" height="100"/><br/><b>Skander Turki</b><br/><a href="mailto:skander.turki@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/skander-turki"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a></div> | <div align="center"><img src="https://user-images.githubusercontent.com/78981558/157719519-36d5e110-659c-4c29-80fc-64e78d53e669.jpg" width="100" height="100"/><br/><b>Syrine Zahras</b><br/><a href="mailto:syrine.zahras@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/SyrineZahras"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a></div> | <div align="center"><img src="https://user-images.githubusercontent.com/78981558/157719578-6479fcf3-e4f1-4db0-83d4-158b640552c1.jpg" width="100" height="100"/><br/><b>Hichem Ben Zammal</b><br/><a href="mailto:hichem.bemzammal@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/hichembenzammel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a></div> | <div align="center"><img src="https://user-images.githubusercontent.com/78981558/157719597-23028a28-1095-4472-af25-ec631c6c1307.jpg" width="100" height="100"/><br/><b>Nesrine Ben Mahmoud</b><br/><a href="mailto:nesrine.benmahmoud@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/nesrine1999"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a></div> |
 
 ---
 
@@ -330,7 +322,6 @@ Built with 💕 by **AlphaCoders** 5 engineering students from Esprit School of 
 ---
 
 <div align="center">
-  <sub>Made with 💕 by AlphaCoders · Esprit School of Engineering · Tunisia · 2022</sub>
-  <br/><br/>
+  <sub>Made with 💕 by Abdul Chaudhari</sub>
   <a href="#top">⬆ Back to top</a>
 </div>
